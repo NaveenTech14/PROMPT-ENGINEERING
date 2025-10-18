@@ -59,5 +59,10 @@ Step 7: Finalize and Export
 
 # Output
 
+[Comprehensive_Report_on_Generative_AI_and_LLMs.pdf](https://github.com/user-attachments/files/22985476/Comprehensive_Report_on_Generative_AI_and_LLMs.pdf)
+
 
 # Result
+
+<img width="906" height="334" alt="image" src="https://github.com/user-attachments/assets/155d141f-8fc0-46b9-8f23-9c16cae20f56" />
+
